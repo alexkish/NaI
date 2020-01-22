@@ -1,0 +1,13 @@
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+
+
+/xe/gun/particle gamma
+/xe/gun/energy 200 keV
+
+/xe/gun/type Point
+/xe/gun/angtype iso
+
+/xe/gun/center 0. 0. -88.6 mm
