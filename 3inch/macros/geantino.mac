@@ -1,0 +1,14 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/particle geantino
+
+/xe/gun/angtype direction
+
+#/xe/gun/center 0. 0. 500 mm
+/xe/gun/center 0. 0. 9.7 mm
+
+/xe/gun/direction 0 1 0
+
