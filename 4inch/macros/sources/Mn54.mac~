@@ -1,0 +1,17 @@
+/control/verbose 2
+/run/verbose 2
+/event/verbose 2
+/tracking/verbose 2
+
+/xe/gun/type Volume
+/xe/gun/shape Sphere
+/xe/gun/radius 10 mm
+/xe/gun/center 0.0 0.0 9.7 mm
+
+/xe/gun/confine SourceActiveRegion*
+
+/xe/gun/energy 0 keV
+/xe/gun/particle ion
+/xe/gun/ion 25 54 0 0
+
+
